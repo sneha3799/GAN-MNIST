@@ -1,3 +1,3 @@
 # GAN-MNIST
 
-Trained a GAN of 2k epochs on MNIST dataset. Got an accuracy of 80%.
+Trained a GAN with 2k epochs on MNIST dataset. Got an accuracy of 80%.
